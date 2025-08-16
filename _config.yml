@@ -1,3 +1,11 @@
-title: Nutrición Profesional
-description: Consultas y dietas personalizadas
+title: Consulta de Nutrición
+description: Servicios profesionales de nutrición y dietética
+baseurl: ""
+url: "https://tudominio.com"
 theme: jekyll-theme-minimal
+
+# Configuración de rutas
+collections:
+  pages:
+    output: true
+    permalink: /:path/
